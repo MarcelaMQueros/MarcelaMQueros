@@ -20,5 +20,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelaMQueros&layout=compact)
 
-Estudo **Ciência da Computação** na Universidade de Marília, 4° Semestre, conclusão em 12/2026.
-Tenho em meu currículo os cursos de **Algoritmos e Lógica de Programação**, **Administrador de Banco de Dados**, **Analista em Suporte Técnico** e **Games e Design**.
+Sou desenvolvedora, trabalho xom PL/SQL, ORACLE FORMS, ORACLE DATABASE. Atualmente estou cursando **Ciência da Computação** na Universidade de Marília, 5° Semestre, conclusão em 12/2026.
+Tenho em meu currículo os cursos de 
+**PL/SQL, ORACLE FORMS**,
+**Algoritmos e Lógica de Programação**, **Administrador de Banco de Dados**, **Analista em Suporte Técnico** e **Games e Design**.
