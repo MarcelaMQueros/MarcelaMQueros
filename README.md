@@ -14,7 +14,9 @@
     <img align="center" alt="Oracle Forms" src="https://img.shields.io/badge/Oracle%20Forms-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
     <img align="center" alt="Oracle Reports" src="https://img.shields.io/badge/Oracle%20Forms-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </div><br/>
+
 ## Tecnologias com bom conhecimento
+
 <div style="display: inline_block"><br/>
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
