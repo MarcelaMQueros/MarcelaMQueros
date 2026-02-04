@@ -6,8 +6,15 @@
 
 ![Marcela GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcelaMQueros&show_icons=true&theme=tokyonight)
 
-## Tecnologias que eu uso
+## Tecnologias com alto conhecimento
 
+<div style="display: inline_block"><br/>
+    <img align="center" alt="Oracle Database" src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+    <img align="center" alt="PL/SQL" src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+    <img align="center" alt="Oracle Forms" src="https://img.shields.io/badge/Oracle%20Forms-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+    <img align="center" alt="Oracle Reports" src="https://img.shields.io/badge/Oracle%20Forms-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</div><br/>
+## Tecnologias com bom conhecimento
 <div style="display: inline_block"><br/>
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -16,11 +23,8 @@
     <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
     <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img align="center" alt="Oracle Database" src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-    <img align="center" alt="PL/SQL" src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-    <img align="center" alt="Oracle Forms" src="https://img.shields.io/badge/Oracle%20Forms-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</div><br/>
 
+</div><br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelaMQueros&layout=compact)
 
 Sou desenvolvedora, trabalho com PL/SQL, ORACLE FORMS, ORACLE DATABASE e ORACLE REPORTS. Atualmente estou cursando **Ciência da Computação** na Universidade de Marília, 7° Semestre, conclusão em 12/2026.
