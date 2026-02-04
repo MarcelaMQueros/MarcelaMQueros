@@ -23,7 +23,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelaMQueros&layout=compact)
 
-Sou desenvolvedora, trabalho com PL/SQL, ORACLE FORMS, ORACLE DATABASE. Atualmente estou cursando **Ciência da Computação** na Universidade de Marília, 5° Semestre, conclusão em 12/2026.
-Tenho em meu currículo os cursos de 
-**PL/SQL, ORACLE FORMS**,
+Sou desenvolvedora, trabalho com PL/SQL, ORACLE FORMS, ORACLE DATABASE e ORACLE REPORTS. Atualmente estou cursando **Ciência da Computação** na Universidade de Marília, 7° Semestre, conclusão em 12/2026.
+Tenho em meu currículo as certificações de 
+**SQL, PL/SQL, ORACLE FORMS, OCI Foundations Associate**,
 **Algoritmos e Lógica de Programação**, **Administrador de Banco de Dados**, **Analista em Suporte Técnico** e **Games e Design**.
