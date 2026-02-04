@@ -12,7 +12,7 @@
     <img align="center" alt="Oracle Database" src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
     <img align="center" alt="PL/SQL" src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
     <img align="center" alt="Oracle Forms" src="https://img.shields.io/badge/Oracle%20Forms-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-    <img align="center" alt="Oracle Reports" src="https://img.shields.io/badge/Oracle%20Forms-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+    <img align="center" alt="Oracle Reports" src="https://img.shields.io/badge/Oracle%20Reports-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </div><br/>
 
 ## Tecnologias com bom conhecimento
